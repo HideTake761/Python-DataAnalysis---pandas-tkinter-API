@@ -1,7 +1,7 @@
 import os
 
 # フォルダパスを指定
-folder_path = 'C:\\Users\\taken\\Desktop\\デスクトップ'  # 対象のフォルダパスを置き換えてください
+folder_path = 'C:\\Users\\(ユーザー名)\\*******\\デスクトップ'  # 対象のフォルダパスを置き換えてください
 
 # ベースネームを指定
 base_name = 'test'  # 一致させる名前を置き換えてください
@@ -32,3 +32,4 @@ for root, dirs, files in os.walk(folder_path):
             counter += 1
 
 print(f"ファイル名の変更が完了しました。")
+
