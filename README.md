@@ -1,1 +1,2 @@
-Python codes for Data analysis - pandas, tkinter, API. And others.<br>
+Python codes for Data analysis - pandas, tkinter, API.<br>
+And others.<br>
